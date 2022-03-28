@@ -1,4 +1,4 @@
-﻿### Primer za SBNZProjekat2020
+﻿# Primer za SBNZProjekat2020
 U odgovarajućim .drl fajlovima imate kako pravila treba da izgleda za ocene iz projekta. Kao demonstrativni projekat uzet je zadatak 2017-2018:
 - Za ocenu 5: nezavisna when then pravila koja samo pronalaze činjenicu i menjaju joj neke od atributa
 - Za ocenu 6: Pravila kao u fajlu "ZaOcenu7.drl" bez accumulate-a (postoje međusobno isključiva pravila, ako se jedno pravilo izvrši ostala neće)
