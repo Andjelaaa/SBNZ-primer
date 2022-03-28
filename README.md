@@ -1,4 +1,4 @@
-﻿# Primer za SBNZProjekat2020
+﻿### Primer za SBNZProjekat2020
 U odgovarajućim .drl fajlovima imate kako pravila treba da izgleda za ocene iz projekta. Kao demonstrativni projekat uzet je zadatak 2017-2018:
 - Za ocenu 5: nezavisna when then pravila koja samo pronalaze činjenicu i menjaju joj neke od atributa
 - Za ocenu 6: Pravila kao u fajlu "ZaOcenu7.drl" bez accumulate-a (postoje međusobno isključiva pravila, ako se jedno pravilo izvrši ostala neće)
@@ -12,4 +12,6 @@ U fajlu "chaining.drl" imate primer forward-chaininga.
 Za sve ove uslove možete da implementirate neki vid ekvivalentnog pravila. Ako niste sigurni da je vaša logika ekvivalentna nekom uslov za ocenu, javite se asistentu na mail.
 
 
-Napomena: Pravila nisu detaljno istestirana i služe za demonstrativne svrhe.
+Napomene: 
+  1. Pravila nisu detaljno istestirana i služe za demonstrativne svrhe.
+  2. Za ocenu 10 i implementaciju CEP-a se neće prihvatiti logovanje, potrebno je implementirati CEP tako da se reši neki deo posmatranog problema. 
